@@ -1,0 +1,1 @@
+console.log("SCRUM-25-partition-equal-subset-sum")
