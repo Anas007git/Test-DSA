@@ -1,0 +1,1 @@
+console.log("git checkout -b SCRUM-26-number-of-occurrences")
